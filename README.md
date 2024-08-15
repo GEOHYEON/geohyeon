@@ -2,9 +2,16 @@
 
 ## 👋 Welcome GEO.H Github
 
-🌱 I’m currently learning :
-</br>
-💬 Ask me about : 
+### Introduction
+1. I'm passionate about AI 🤖 and natural intelligence 🧠.
+2. I want to create a world where technology makes people happier 🌍.
+3. I aim to build new businesses by combining BIO, AI, and Platforms 💡.
+
+### What I'm Currently Interested In 📚
+1. Helping people understand AI technology 🧑‍💻.
+2. Creating platforms that apply AI to the bio field 🧬.
+3. Gaining a deep understanding of AI technology itself 🤖.
+
 </br></br>
 
 ## 🔥 Activity
